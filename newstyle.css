@@ -97,15 +97,6 @@
   justify-content: center;
 }
 
-td,
-th {
-  border: none;
-}
-
-td {
-  text-align: left;
-  padding: 10px;
-}
 
 h5 {
   display: flex;
