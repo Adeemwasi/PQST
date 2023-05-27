@@ -390,3 +390,13 @@ a {
     flex-direction: column;
   }
 }
+@media (min-width: 5px) and (max-width: 500px) {
+  .carousel-a {
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+  }
+}
