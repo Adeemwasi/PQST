@@ -352,6 +352,11 @@ a {
   }
 }
 @media (max-width: 760px) {
+  .footer {
+    height: 35vh;
+  }
+}
+@media (max-width: 760px) {
   .courses {
     display: flex;
     flex-direction: column;
