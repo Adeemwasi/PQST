@@ -299,6 +299,8 @@ a {
   font-size: medium;
   font-weight: 600;
   color: white;
+    white-space: nowrap;
+
 }
 
 .book-now {
