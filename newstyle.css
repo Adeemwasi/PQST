@@ -390,7 +390,7 @@ a {
     flex-direction: column;
   }
 }
-@media (min-width: 5px) and (max-width: 500px) {
+@media (min-width: 5px) and (max-width: 700px) {
   .carousel-a {
     display: flex;
     flex-direction: column;
